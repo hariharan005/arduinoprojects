@@ -11,7 +11,7 @@ Here's a basic circuit setup:
     Connect the shorter leg (cathode) of the LED to the GND pin on the Arduino.
 
 Here's the Arduino code for this setup:
-source.ino
+[Click here to view the code file]()
 
 
 
