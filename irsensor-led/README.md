@@ -11,46 +11,8 @@ Here's a basic circuit setup:
     Connect the shorter leg (cathode) of the LED to the GND pin on the Arduino.
 
 Here's the Arduino code for this setup:
-
-int irSensorPin = 2;
-int ledOutputPin = 7;
-
-void setup() {
-  pinMode(ledOutputPin, OUTPUT);
-  pinMode(irSensorPin, INPUT);
-  Serial.begin(9600);
-}
-
-void loop() {
-  int SensorValue = digitalRead(irSensorPin);
-  
-  Serial.print("SensorPin Value: ");
-  Serial.println(SensorValue);
-  delay(1000);
-   if (SensorValue==LOW){ // LOW MEANS Object Detected
-    digitalWrite(ledOutputPin, HIGH);
-  }
-  else
-  {
-    digitalWrite(ledOutputPin, LOW); 
-  }
-}
+source.ino
 
 
-Here's a breakdown of the code:
-
-    const int irSensorPin = 2;: Defines the digital pin to which the OUT pin of the IR sensor is connected.
-
-    const int ledPin = 7;: Defines the digital pin to which the LED is connected.
-
-    pinMode(irSensorPin, INPUT); and pinMode(ledPin, OUTPUT);: Sets the pinMode for the IR sensor pin as INPUT and the LED pin as OUTPUT.
-
-    The loop() function continuously reads the state of the IR sensor using digitalRead(irSensorPin).
-
-    If the IR sensor detects an object (output is HIGH), it turns on the LED and prints "Object detected!" to the Serial Monitor. If no object is detected (output is LOW), it turns off the LED and prints "No object detected."
-
-    delay(500); adds a small delay to avoid rapid switching.
-
-Make sure to adjust the pin numbers in the code based on your actual wiring. Also, connect the components according to the circuit description. If you haven't already, you can open the Arduino IDE, copy and paste this code into a new sketch, and upload it to your Arduino board.
 
 
