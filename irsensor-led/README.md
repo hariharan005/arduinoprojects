@@ -11,7 +11,8 @@ Here's a basic circuit setup:
     Connect the shorter leg (cathode) of the LED to the GND pin on the Arduino.
 
 Here's the Arduino code for this setup:
-[Click here to view the code file]()
+
+[Click here to view the code file](https://github.com/hariharan005/arduinoprojects/blob/main/irsensor-led/source.ino)
 
 
 
