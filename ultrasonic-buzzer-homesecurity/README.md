@@ -53,7 +53,7 @@ Remember to adapt and customize the project based on the specific requirements o
 
 ### Code:
 
-Use the Arduino code . This code reads the distance from the ultrasonic sensor and activates the buzzer if the distance is less than or equal to 5cm.
+Use the Arduino code [source.ino](https://github.com/hariharan005/arduinoprojects/blob/main/ultrasonic-buzzer-homesecurity/source.ino). This code reads the distance from the ultrasonic sensor and activates the buzzer if the distance is less than or equal to 5cm.
 
 ### Additional Notes:
 
