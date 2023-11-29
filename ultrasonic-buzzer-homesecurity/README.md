@@ -1,6 +1,7 @@
 Certainly! Here's a detailed description for connecting an ultrasonic sensor and a buzzer to an Arduino board.
+
+
 ![](https://raw.githubusercontent.com/hariharan005/arduinoprojects/main/ultrasonic-buzzer-homesecurity/IMG_20231128_184525.jpg)
-<img src="https://raw.githubusercontent.com/hariharan005/arduinoprojects/main/ultrasonic-buzzer-homesecurity/IMG_20231128_184525.jpg" alt="Project Image" width="800" height="400">
 
 
 **Description:**
