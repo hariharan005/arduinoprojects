@@ -1,4 +1,5 @@
 Certainly! Here's a detailed description for connecting an ultrasonic sensor and a buzzer to an Arduino board.
+![Arduino Ultrasonic Sensor Distance Alert System | DIY Proximity Alarm Project](url)
 
 **Description:**
 
