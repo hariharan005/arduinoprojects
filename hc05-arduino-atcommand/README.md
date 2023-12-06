@@ -1,17 +1,17 @@
 **Bluetooth Configuration Interface with HC-05 using Arduino**
 
-Description: 
+**Description:** 
   * The Bluetooth configuration interface with HC-05 using Arduino enables communication between an Arduino board and an HC-05 Bluetooth module using AT commands. 
   * The HC-05 module is a Bluetooth serial module that can be configured and controlled through AT commands. 
   * The Arduino code establishes a software-based serial communication interface (SoftwareSerial) on specific pins for the HC-05 module, allowing users to send AT commands from the Arduino Serial Monitor and receive responses.
 
-Components Required:
+**Components Required:**
   * Arduino Uno
   * Jumper wires (4)
   * HC-05 Bluetooth Module
   * Bread Board (if needed)
 
-Pin Configuration: 
+**Pin Configuration:** 
   Here is the pin configuration used in the code
     * First connect the 5v of HC-05 to 5v of Arduino
     * Then connect the GND of HC-05 to GND of Arduino
@@ -20,14 +20,14 @@ Pin Configuration:
 
   Note: The RX and TX of the HC-05 should connect and vice versa
 
-Upload Code:
+**Upload Code:**
   Before uploading the code just disconnect the RX and TX (Because the USB which is connected to the computer and Arduino gets busy when uploading code, then you will face some errors)
 
   [Source.ino](https://github.com/hariharan005/arduinoprojects/blob/main/hc05-arduino-atcommand/source.ino)
 
   While uploading the code, press and hold the button in HC-05 to avoid connection issues
 
-AT Commands:
+**AT Commands:**
 
   After the code is uploaded connect the jumper wires and use the following commands to enter into AT COMMANDS
   The HC-05 is a popular Bluetooth module that can be used for wireless communication with various devices. To interact with the HC-05 module using AT commands, you'll need to connect to it using a serial communication interface. Here's a list of common AT commands for the HC-05 module:
