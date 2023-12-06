@@ -12,6 +12,7 @@
   * Bread Board (if needed)
 
 **Pin Configuration:**
+
   Here is the pin configuration used in the code
     * First, connect the 5v of HC-05 to 5v of Arduino
     * Then connect the GND of HC-05 to GND of Arduino
