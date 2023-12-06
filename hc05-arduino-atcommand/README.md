@@ -42,19 +42,19 @@
     AT+VERSION
         Get the firmware version of the HC-05 module.
 
-    AT+ADDR?
+    AT+ADDR
         Get the Bluetooth address of the module.
 
-    AT+NAME?
+    AT+NAME
         Get the name of the module.
 
-    AT+ROLE?
+    AT+ROLE
         Get the role of the module (Master/Slave).
 
-    AT+UART?
+    AT+UART
         Get the current UART settings.
 
-    AT+PSWD?
+    AT+PSWD
         Get the current pairing password.
 
     AT+UART=<BaudRate>,<DataBits>,<StopBits>,<Parity>
