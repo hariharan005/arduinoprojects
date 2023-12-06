@@ -22,6 +22,7 @@
   Note: The RX and TX of the HC-05 should connect and vice versa
 
 **Upload Code:**
+
   Before uploading the code just disconnect the RX and TX (Because the USB which is connected to the computer and Arduino gets busy when uploading code, then you will face some errors)
 
   [Source.ino](https://github.com/hariharan005/arduinoprojects/blob/main/hc05-arduino-atcommand/source.ino)
