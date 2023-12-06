@@ -12,11 +12,12 @@
   * Bread Board (if needed)
 
 **Pin Configuration:** 
+
   Here is the pin configuration used in the code
-    * First connect the 5v of HC-05 to 5v of Arduino
-    * Then connect the GND of HC-05 to GND of Arduino
-    * Connect the RX of HC-05 to Arduino Digital pin (6), it is set as TX in the code
-    * Connect the TX of HC-05 to Arduino Digital pin (5), it is set as RX in the code
+  * First connect the 5v of HC-05 to 5v of Arduino
+  * Then connect the GND of HC-05 to GND of Arduino
+  * Connect the RX of HC-05 to Arduino Digital pin (6), it is set as TX in the code
+  * Connect the TX of HC-05 to Arduino Digital pin (5), it is set as RX in the code
 
   Note: The RX and TX of the HC-05 should connect and vice versa
 
