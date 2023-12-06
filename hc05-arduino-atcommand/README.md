@@ -36,7 +36,7 @@
   The HC-05 is a popular Bluetooth module that can be used for wireless communication with various devices. To interact with the HC-05 module using AT commands, you'll need to connect to it using a serial communication interface. Here's a list of common AT commands for the HC-05 module:
 
 
-      AT
+    AT
         Check if the module is responsive.
 
     AT+VERSION
