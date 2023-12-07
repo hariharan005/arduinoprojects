@@ -1,4 +1,4 @@
-***Bluetooth Configuration Interface with HC-05 using Arduino***
+# Bluetooth Configuration Interface with HC-05 using Arduino
 
 **Description:** 
   * The Bluetooth configuration interface with HC-05 using Arduino enables communication between an Arduino board and an HC-05 Bluetooth module using AT commands. 
