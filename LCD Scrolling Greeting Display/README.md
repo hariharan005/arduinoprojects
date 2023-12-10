@@ -3,11 +3,11 @@
 
 **Description:**
 
-    Embark on a journey into the world of microcontroller programming with this introductory Arduino project. In this hands-on venture, you'll connect a 16x2 LCD display to an Arduino Uno and bring it to life by printing the timeless message, "Hello, Coders!"
+Embark on a journey into the world of microcontroller programming with this introductory Arduino project. In this hands-on venture, you'll connect a 16x2 LCD display to an Arduino Uno and bring it to life by printing the timeless message, "Hello, Coders!"
 
 **Hardware Setup:**
 
-    The hardware setup involves simple yet crucial connections between the Arduino board and the LCD display. By establishing a communication pathway using jumper wires, you enable the Arduino to control and display information on the LCD.
+The hardware setup involves simple yet crucial connections between the Arduino board and the LCD display. By establishing a communication pathway using jumper wires, you enable the Arduino to control and display information on the LCD.
 
 **Components Needed:**
     * Arduino Uno
