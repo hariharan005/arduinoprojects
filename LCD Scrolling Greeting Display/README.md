@@ -10,11 +10,12 @@ Embark on a journey into the world of microcontroller programming with this intr
 The hardware setup involves simple yet crucial connections between the Arduino board and the LCD display. By establishing a communication pathway using jumper wires, you enable the Arduino to control and display information on the LCD.
 
 **Components Needed:**
-    * Arduino Uno
-    * 16x2 LCD Display
-    * Potentiometer (for contrast adjustment) (10k)
-    * Jumper Wires
-    * Breadboard (optional)
+
+   * Arduino Uno
+   * 16x2 LCD Display
+   * Potentiometer (for contrast adjustment) (10k)
+   * Jumper Wires
+   * Breadboard (optional)
 
 **Hardware Connection:**
 
