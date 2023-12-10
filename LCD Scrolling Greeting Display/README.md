@@ -2,7 +2,7 @@
 
 
 **Description:**
-Embark on a journey into the world of microcontroller programming with this introductory Arduino project. 
+    Embark on a journey into the world of microcontroller programming with this introductory Arduino project. 
 In this hands-on venture, you'll connect a 16x2 LCD display to an Arduino Uno and bring it to life by printing the timeless message, "Hello, Coders!"
 
 **Hardware Setup:**
