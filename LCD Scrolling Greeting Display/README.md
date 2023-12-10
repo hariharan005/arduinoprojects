@@ -33,6 +33,6 @@ Note: Upload the code to the microcontroller then go to the hardware connection 
 
 **Upload Code:**
 
-  [Source.ino](https://github.com/hariharan005/arduinoprojects/blob/main/LCD/source.ino)
+  [Source.ino](https://github.com/hariharan005/arduinoprojects/blob/main/LCD%20Scrolling%20Greeting%20Display/source.ino)
 
     
