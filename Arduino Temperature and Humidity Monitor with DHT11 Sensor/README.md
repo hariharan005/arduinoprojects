@@ -1,4 +1,4 @@
-#Arduino Temperature and Humidity Monitor with DHT11 Sensor#
+# Arduino Temperature and Humidity Monitor with DHT11 Sensor
 
 **Description:^^
 
