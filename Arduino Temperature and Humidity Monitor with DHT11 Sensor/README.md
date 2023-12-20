@@ -21,6 +21,7 @@ This project involves creating a temperature and humidity monitoring system usin
    2. GND (Ground): Connect to GND on Arduino.
    3. Data: Connect to the digital pin defined in the code (dataPin), which is pin 11 in this case.
 
+      
    Arduino:
    
    1. Digital Pin 11 (dataPin): Connect to the Data pin on the DHT11 sensor.
