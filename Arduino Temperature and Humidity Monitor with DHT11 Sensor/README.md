@@ -14,11 +14,12 @@ This project involves creating a temperature and humidity monitoring system usin
    The Arduino is programmed to check if the temperature exceeds a predefined threshold (30°C in this case). If the temperature is high, an alert message is sent to the Serial Monitor.
             
 **Pin Configuration:**
-    DHT11 Sensor:
-    1. VCC (Power): Connect to 5V on Arduino.
-        GND (Ground): Connect to GND on Arduino.
-        Data: Connect to the digital pin defined in the code (dataPin), which is pin 11 in this case.
-    Arduino:
+
+   DHT11 Sensor:
+      1. VCC (Power): Connect to 5V on Arduino.
+      2. GND (Ground): Connect to GND on Arduino.
+      3. Data: Connect to the digital pin defined in the code (dataPin), which is pin 11 in this case.
+   Arduino:
         Digital Pin 11 (dataPin): Connect to the Data pin on the DHT11 sensor.
         5V: Connect to the VCC pin on the DHT11 sensor.
         GND: Connect to the GND pin on the DHT11 sensor.
