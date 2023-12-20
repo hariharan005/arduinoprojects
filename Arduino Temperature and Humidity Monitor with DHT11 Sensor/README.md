@@ -6,9 +6,9 @@ This project involves creating a temperature and humidity monitoring system usin
 
 **Key Features:**
 1. Real-time Monitoring:
-   The system continuously reads temperature and humidity values in real-time using the DHT11 sensor.
+      The system continuously reads temperature and humidity values in real-time using the DHT11 sensor.
 2. Alert System:
-   The Arduino is programmed to check if the temperature exceeds a predefined threshold (30°C in this case). If the temperature is high, an alert message is sent to the Serial Monitor.
+      The Arduino is programmed to check if the temperature exceeds a predefined threshold (30°C in this case). If the temperature is high, an alert message is sent to the Serial Monitor.
 
 6. User Interface:
     The Serial Monitor serves as a simple user interface, displaying temperature, humidity, and alerts. Users can observe the environmental conditions and receive notifications if the temperature is above the specified limit.
