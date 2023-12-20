@@ -15,12 +15,10 @@ This project involves creating a temperature and humidity monitoring system usin
     The Serial Monitor serves as a simple user interface, displaying temperature, humidity, and alerts. Users can observe the environmental conditions and receive notifications if the temperature is above the specified limit.
 
 **Pin Configuration:**
-
     DHT11 Sensor:
         VCC (Power): Connect to 5V on Arduino.
         GND (Ground): Connect to GND on Arduino.
         Data: Connect to the digital pin defined in the code (dataPin), which is pin 11 in this case.
-
     Arduino:
         Digital Pin 11 (dataPin): Connect to the Data pin on the DHT11 sensor.
         5V: Connect to the VCC pin on the DHT11 sensor.
