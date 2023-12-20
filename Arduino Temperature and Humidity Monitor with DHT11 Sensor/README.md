@@ -16,14 +16,14 @@ This project involves creating a temperature and humidity monitoring system usin
 
 **Pin Configuration:**
 
-DHT11 Sensor:
-    VCC (Power): Connect to 5V on Arduino.
-    GND (Ground): Connect to GND on Arduino.
-    Data: Connect to the digital pin defined in the code (dataPin), which is pin 11 in this case.
+    DHT11 Sensor:
+        VCC (Power): Connect to 5V on Arduino.
+        GND (Ground): Connect to GND on Arduino.
+        Data: Connect to the digital pin defined in the code (dataPin), which is pin 11 in this case.
 
-Arduino:
-    Digital Pin 11 (dataPin): Connect to the Data pin on the DHT11 sensor.
-    5V: Connect to the VCC pin on the DHT11 sensor.
-    GND: Connect to the GND pin on the DHT11 sensor.
+    Arduino:
+        Digital Pin 11 (dataPin): Connect to the Data pin on the DHT11 sensor.
+        5V: Connect to the VCC pin on the DHT11 sensor.
+        GND: Connect to the GND pin on the DHT11 sensor.
 
 Ensure the connections are secure and the code is uploaded to the Arduino. You can then open the Serial Monitor in the Arduino IDE to view temperature and humidity readings. If you have further questions or encounter issues, feel free to ask!
