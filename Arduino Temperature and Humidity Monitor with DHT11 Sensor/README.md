@@ -1,5 +1,7 @@
 # Arduino Temperature and Humidity Monitor with DHT11 Sensor
 
+![](https://raw.githubusercontent.com/hariharan005/arduinoprojects/main/Arduino%20Temperature%20and%20Humidity%20Monitor%20with%20DHT11%20Sensor/dht11simple_bb.png)
+
 **Description:**
 
 This project involves creating a temperature and humidity monitoring system using an Arduino microcontroller and a DHT11 sensor. The DHT11 sensor is a low-cost device capable of providing accurate temperature and humidity readings. The Arduino, programmed with the appropriate code, reads data from the sensor and displays it on the Serial Monitor.
