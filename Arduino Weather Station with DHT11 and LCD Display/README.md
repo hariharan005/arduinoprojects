@@ -5,6 +5,7 @@
 This Arduino project creates a weather station using a DHT11 temperature and humidity sensor along with an LCD. The DHT11 sensor measures environmental conditions, and the Arduino displays the data on the LCD screen. The system also includes a temperature alert feature that triggers when the temperature exceeds a predefined threshold.
 
 **Components Required:**
+
     Arduino Uno
     16x2 LCD Display
     Potentiometer (for contrast adjustment) (10k)
