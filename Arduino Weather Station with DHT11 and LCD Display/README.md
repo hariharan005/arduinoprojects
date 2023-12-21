@@ -14,8 +14,7 @@ This Arduino project creates a weather station using a DHT11 temperature and hum
 
 **Hardware Setup:**
 
-  *DHT11 Sensor:*
-  
-  1. Connect the positive (VCC) pin of the DHT11 sensor to the 5V pin on the Arduino.
-  2. Connect the negative (GND) pin of the DHT11 sensor to the GND pin on the Arduino.
-  3. Connect the data pin of the DHT11 sensor to digital pin 9 on the Arduino.
+   *DHT11 Sensor:*
+   1. Connect the positive (VCC) pin of the DHT11 sensor to the 5V pin on the Arduino.
+   2. Connect the negative (GND) pin of the DHT11 sensor to the GND pin on the Arduino.
+   3. Connect the data pin of the DHT11 sensor to digital pin 9 on the Arduino.
