@@ -7,9 +7,10 @@ This Arduino project creates a weather station using a DHT11 temperature and hum
 **Components Required:**
 1. Arduino Uno
 2. 16x2 LCD Display
-3. Potentiometer (for contrast adjustment) (10k)
-4. Jumper Wires
-5. Breadboard (optional)
+3. DHT11 (Temperature and Humidity Sensor)
+4. Potentiometer (for contrast adjustment) (10k)
+5. Jumper Wires
+6. Breadboard (optional)
 
 **Hardware Setup:**
 
